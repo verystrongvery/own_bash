@@ -1,5 +1,6 @@
 # 프로젝트 요약
-나만의 Bash Shell 구현
+1. 나만의 Bash Shell 구현
+2. fork, execve, waitpid, signal, pipe, dup2 등의 System Call 활용
 
 # 기술스택
 - C
